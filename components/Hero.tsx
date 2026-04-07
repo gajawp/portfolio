@@ -77,6 +77,11 @@ export default function Hero() {
           MS Computer Science @ Northeastern University · AI/ML & Full-Stack
         </p>
 
+        <div className="mt-6 flex items-center gap-6 text-gray-500 text-sm">
+  <span>📍 Seattle, WA</span>
+  <span>💼 Open to Opportunities</span>
+</div>
+
         {/* STATS */}
         <div className="mt-10 flex gap-10">
           <div>
